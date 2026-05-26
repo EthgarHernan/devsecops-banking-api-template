@@ -1,0 +1,10 @@
+target/
+.idea/
+.vscode/
+*.iml
+.env
+logs/
+*.log
+dependency-check-report.*
+.mvn/wrapper/maven-wrapper.jar
+
